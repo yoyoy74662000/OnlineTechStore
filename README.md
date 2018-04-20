@@ -1,2 +1,2 @@
 # OnlineTechStore
-Online course from udemy
+Using Node.js to create a online tech store
